@@ -9,7 +9,7 @@ At the moment I am working on a project similar to NFT.
 
 I would like to collaborate in some Web3 projects. 
 
-Feel free to contact me at Email: fs.stanczyk@gmail.com
+Feel free to contact me at Email: stanczyk.fs@gmail.com
 
 
 
