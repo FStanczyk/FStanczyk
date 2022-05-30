@@ -1,7 +1,6 @@
 ### Hello!
 
-My name is Filip Stańczyk.
-Blockchain technology and introducing it to everyday lifeis my passion. I would like to participate in providing modern and easily accessible solutions with the use of Web3.
+My passion is Blockchain technology and introducing it to everyday life. I would like to participate in providing modern and easily accessible solutions with the use of Web3.
 
 I am currently learning Solidity, Javascript / Typescript, React, Python and C++ as well as frameworks such as Brownie, Ethers or UseDapp.
 
