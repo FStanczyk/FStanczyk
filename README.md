@@ -4,7 +4,7 @@ My passion is Blockchain technology and introducing it to everyday life. I would
 
 I am currently learning Solidity, Javascript / Typescript, React, Python and C++ as well as frameworks such as Brownie, Ethers or UseDapp.
 
-At the moment I am working on a project similar to NFT.
+At the moment I am working on some Solidity projects and C++ workout planner;
 
 I would like to collaborate in some Web3 projects. 
 
