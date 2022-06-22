@@ -2,7 +2,8 @@
 
 My passion is Blockchain technology and introducing it to everyday life. I would like to participate in providing modern and easily accessible solutions with the use of Web3.
 
-I am currently learning Solidity, Javascript / Typescript, React, Python and C++ as well as frameworks such as Brownie, Ethers or UseDapp.
+Learning Hardhat and Chai.
+Beside that I am constantly learning Solidity, Javascript / Typescript, React, Python and C++ as well as frameworks such as Brownie, Ethers or UseDapp.
 
 At the moment I am working on some Solidity projects and C++ workout planner;
 
