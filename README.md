@@ -1,11 +1,12 @@
 ### Hello!
 
-My passion is Blockchain technology and introducing it to everyday life. I would like to participate in providing modern and easily accessible solutions with the use of Web3.
+My passion is Blockchain technology and introducing it to everyday life. I would like to participate in providing modern and easily accessible solutions with the use of Web3. I started pragramming from C++ 2 years ago. Switched mostly to Solidity a year before. Now I am able write dapps with Javascript (Typescript also but not that well), React, Solidity, Hardhat, Brownie, Ethers.js and UseDapp. 
 
-Learning Hardhat and Chai.
+Currently working on Autonomous Market Maker in solidity (Uniswapv3 like). Learning about Constant Product Formula, liquidity pools and sharestake'ing.
+
 Beside that I am constantly learning Solidity, Javascript / Typescript, React, Python and C++ as well as frameworks such as Brownie, Ethers or UseDapp.
 
-At the moment I am working on some Solidity projects and C++ workout planner;
+At the moment I am working on some Solidity projects and Javascript+React workout planner;
 
 I would like to collaborate in some Web3 projects. 
 
