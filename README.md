@@ -4,7 +4,7 @@ My passion is Blockchain technology and introducing it to everyday life. I would
 
 Currently working on Autonomous Market Maker in solidity (Uniswapv3 like). Learning about Constant Product Formula, liquidity pools and sharestake'ing.
 
-Beside that I am constantly learning Solidity, Javascript / Typescript, React, Python and C++ as well as frameworks such as Brownie, Ethers or UseDapp.
+Beside that I am constantly learning Solidity, Javascript / Typescript, React, Python and C++ as well as frameworks such as hardhat, Ethers or UseDapp.
 
 At the moment I am working on some Solidity projects and Javascript+React workout planner;
 
