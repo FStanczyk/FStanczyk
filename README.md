@@ -1,9 +1,4 @@
-### Hello!
-
-My passion is Blockchain technology and introducing it to everyday life. I would like to participate in providing modern and easily accessible solutions with the use of Web3. I started pragramming journey with C++. Switched mostly to Solidity. Now I am able write dapps with Javascript (Typescript also but not that well), React, Solidity, Hardhat, Brownie, Ethers.js and UseDapp. 
-
-Beside that I am constantly learning Solidity, Rust, Javascript / Typescript, React, Python and C++ as well as frameworks such as hardhat, Foundry, Ethers or UseDapp.
-
+I am constantly programming in and learning Solidity, Rust, Javascript / Typescript, React, Python and C++ as well as frameworks such as hardhat, Foundry, Ethers or UseDapp.
 
 Feel free to contact me at Email: stanczyk.fs@gmail.com
 
